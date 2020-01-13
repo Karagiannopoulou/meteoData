@@ -1,2 +1,2 @@
 # meteoData
-meteorological data analysis
+Statitistical analysis of meteorological data and wind rose plot.
